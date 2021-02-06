@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+
+    "noEmitOnError": true,
+    "outDir": "./build",
+    "lib": ["dom", "ESNext"]
+  }
+}

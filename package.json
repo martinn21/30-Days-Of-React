@@ -1,0 +1,10 @@
+{
+    "name": "30-Days-Of-React",
+    "version": "1.0.0",
+    "scripts": {
+        "tsc": "tsc"
+    },
+    "dependencies": {
+
+    }
+}
