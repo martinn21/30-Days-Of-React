@@ -20,7 +20,7 @@ let itCompaniesLength = itCompanies.length
 let i, findCompany, letters = [], lettersLength, j, countLettersO, companiesWithO = []
 for (i=0; i<itCompaniesLength; i++) {
     findCompany = itCompanies[i]
-    letters = findCompany.split('');
+    letters = findCompany.split('')
     lettersLength = letters.length
     countLettersO = 0
     for (j=0; j<lettersLength; j++) {
